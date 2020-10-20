@@ -1,6 +1,6 @@
 ### Hey guys 👋
 
-I am Leonardo Garreto and I'm a Software Engineer Student.
+My name is Leonardo Garreto and I'm a Software Engineer Student.
 
 ![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Nhed1&show_icons=true&theme=algolia)
 
