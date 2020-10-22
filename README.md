@@ -1,8 +1,10 @@
 ## Hello, World ! 🌎
 
-My name is Leonardo Garreto and I'm a Software Engineer Student from Brazil.
+My name is Leonardo Garreto and I'm a Software Engineer Student.
 
 I’m currently learning __JavaScript, HTML and CSS.__  💻
+
+
 
 ![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Nhed1&show_icons=true&theme=algolia)
 
