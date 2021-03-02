@@ -2,7 +2,7 @@
 
 My name is Leonardo Garreto and I'm a Software Engineer Student.
 
-I’m currently learning __JavaScript, HTML and CSS.__  💻
+I’m currently learning Python 💻
 
 
 
