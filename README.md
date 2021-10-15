@@ -3,8 +3,8 @@
 ## I'm a Software Engineer Student and Developer!
 
 - 🌱 I’m currently learning Web Development 
-- 👯 I’m looking to become a programmer
 - 🥅 Goal: Work as a Full Stack Developer
+- 👯 Contact me: leonardogarreto@gmail.com
 - ⚡ Fun fact: I like to play games and hang out with friends
 
 ### Connect with me:
@@ -28,18 +28,6 @@
 <br />
 
 ---
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [STACKr News Weekly: Quit Google 🚫, Authentication 🔐, Open Source 💪](https://www.youtube.com/watch?v=KxLgwLa8Aq8)
-- [Top VS Code Updates | v1.61 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=JHgbB0RW-50)
-- [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ)
-- [STACKr News Weekly: Hacktoberfest 🐱‍💻, Web Scrapping 🔎, & MongoDB 💪](https://www.youtube.com/watch?v=T9JmMNEgpZE)
-- [Animations in Vue.js // Callum Macrae Vue.js Live Conference Interview](https://www.youtube.com/watch?v=O2gUILIIYxw)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 
