@@ -1,4 +1,4 @@
-## Hey! my name is Leonardo Garreto Cantanhede and I am a Software Engineer Student ! 👋 
+## Hey! My name is Leonardo Garreto and I am a Software Engineer Student ! 👋 
 
 - 🌱 I’m currently learning Web Development 
 - 🥅 Goal: Become Full Stack Developer
