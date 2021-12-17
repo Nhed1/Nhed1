@@ -3,6 +3,18 @@
 - 🌱 I’m currently learning Web Development 
 - 🥅 Goal: Become Full Stack Developer
 
+  <div style="display: inline_block" align="left">
+    <h2> Languages and Tools: </h2>
+    <ul>
+      <li>Javascript</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>ReactJs</li>
+      <li>Bootstrap</li>
+      <li>Python</li>
+      </ul>
+</div>
+
 <div align="center">
   <a href="https://github.com/nhed1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nhed1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,16 +32,5 @@
 
 
   
-  <div style="display: inline_block" align="left">
-    <h2> Languages and Tools: </h2>
-    <ul>
-      <li>Javascript</li>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>ReactJs</li>
-      <li>Bootstrap</li>
-      <li>Python</li>
-      </ul>
- 
-</div>
+
 
