@@ -12,6 +12,8 @@
       <li>ReactJs</li>
       <li>Bootstrap</li>
       <li>Python</li>
+      <li>Git</li>
+      <li>Linux</li>
       </ul>
 </div>
 
