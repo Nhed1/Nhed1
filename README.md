@@ -4,17 +4,10 @@
 - 🥅 Goal: Become Full Stack Developer
 
 <div style="display: inline_block" align="left">
-<h2> Languages and Tools: </h2>
-    <ul>
-      <li>Javascript</li>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>ReactJs</li>
-      <li>Bootstrap</li>
-      <li>Python</li>
-      <li>Git</li>
-      <li>Linux</li>
-      </ul>
+<ul> <h2> Programming Languages and Frameworks: </h2></ul>
+<li><strong>FrontEnd:</strong> Javascript, HTML, CSS, ReactJs, Bootstrap </li>
+<li><strong>BackEnd:</strong> MySQL, Python</li>
+<li><strong>Tools:</strong> Git, Linux, Visual Studio Code</li>
 </div>
 
 <div align="center"> 
