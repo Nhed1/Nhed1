@@ -6,9 +6,9 @@
 <div style="display: inline_block" align="left">
 <h2> Programming Languages and Frameworks: </h2>
 <ul>
-<li><strong>FrontEnd:</strong> Javascript, HTML, CSS, ReactJs, Typescript </li>
+<li><strong>FrontEnd:</strong> Javascript, ReactJs, Typescript, NextJs, HTML, CSS</li>
 <li><strong>BackEnd:</strong> MySQL, Python</li>
-<li><strong>Tools:</strong> Git, Linux, Visual Studio Code</li>
+<li><strong>Tools:</strong> Git, Linux, Visual Studio Code, Scrum</li>
 </ul>
 </div>
 
