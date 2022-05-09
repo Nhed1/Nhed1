@@ -1,6 +1,6 @@
 <h1> Hey! My name is Leonardo Garreto and I am a Software Engineer Student ! 👋 </h1>
 
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning NodeJS
 - 🥅 Goal: Become Full Stack Developer
 
 <div style="display: inline_block" align="left">
