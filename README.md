@@ -1,14 +1,14 @@
 <h1> Hey! My name is Leonardo Garreto and I am a Software Engineer Student ! 👋 </h1>
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Backend
 - 🥅 Goal: Become Full Stack Developer
 
 <div style="display: inline_block" align="left">
 <h2> Programming Languages and Frameworks: </h2>
 <ul>
-<li><strong>FrontEnd:</strong> Javascript, ReactJs, Typescript, NextJs, HTML, CSS</li>
-<li><strong>BackEnd:</strong> MySQL, Python</li>
-<li><strong>Tools:</strong> Git, Linux, Visual Studio Code, Scrum</li>
+<li><strong>FrontEnd:</strong> Javascript, ReactJs, Typescript, NextJs</li>
+<li><strong>BackEnd:</strong> MySQL, Java</li>
+<li><strong>Tools:</strong> Git, Linux, Visual Studio Code, Scrum/Kanban</li>
 </ul>
 </div>
 
